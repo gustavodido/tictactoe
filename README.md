@@ -12,11 +12,11 @@ Regras:
    4. Não podemos ter classes maiores que 50 linhas.
    5. Não podemos ter métodos maiores que 15 linhas.
    6. O programa deve possuir no MÍNIMO as classes abaixos:
-      a. GameBoard: tabuleiro do jogo.
-      b. Player: jogador.
-      c. Engine: lógica do jogo.
-      d. ScoreBoard: placar do jogo.
-      e. GameView: mostra o tabuleiro na saída do programa.
+      * GameBoard: tabuleiro do jogo.
+      * Player: jogador.
+      * Engine: lógica do jogo.
+      * ScoreBoard: placar do jogo.
+      * GameView: mostra o tabuleiro na saída do programa.
 
 O jogo da velha possui 9 posições para colocar *X* ou *O*. Você pode utilizar os números de 1 a 9 para cada posição e solicitar ao usuário qual posição ele deseja.
 

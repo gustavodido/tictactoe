@@ -8,7 +8,7 @@ Regras:
 
    1. Deve ser possível ver o estado atual do jogo.
    2. A entrada deve ser validada pelo programa.
-   3. A cobertura de testes deve ser maior que 905.
+   3. As classes devem ser testada isoladamente uma da outra. Não podemos criar dependências de classes nos testes. 
    4. Não podemos ter classes maiores que 50 linhas.
    5. Não podemos ter métodos maiores que 15 linhas.
    6. O programa deve possuir no MÍNIMO as classes abaixos:
